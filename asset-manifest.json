@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praba-online-books-shop/static/css/main.80056766.css",
+    "main.js": "/praba-online-books-shop/static/js/main.d05e6c41.js",
+    "static/media/library-img.jpg": "/praba-online-books-shop/static/media/library-img.5438270de6fd1eb1bcd4.jpg",
+    "static/media/cover_not_found.jpg": "/praba-online-books-shop/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/about-img.jpg": "/praba-online-books-shop/static/media/about-img.b7521da541400a1eefdb.jpg",
+    "static/media/logo.png": "/praba-online-books-shop/static/media/logo.0ed3384642289c03b7f0.png",
+    "index.html": "/praba-online-books-shop/index.html",
+    "static/media/loader.svg": "/praba-online-books-shop/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.80056766.css.map": "/praba-online-books-shop/static/css/main.80056766.css.map",
+    "main.d05e6c41.js.map": "/praba-online-books-shop/static/js/main.d05e6c41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80056766.css",
+    "static/js/main.d05e6c41.js"
+  ]
+}
